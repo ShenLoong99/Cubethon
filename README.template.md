@@ -10,7 +10,7 @@
 <div>
    <h1>Cubethon (Unity Beginner Project)</h1>
    <p align="center"> 
-    <img src="Assets/welcome-page.png" alt="flappy-bird" width="800"/><br>
+    <img src="Assets/cubethon.png" alt="cubethon" width="800"/><br>
     A Unity learning project built by following Brackeys’ Unity Beginner Tutorial playlist, using YouTube video transcripts as a structured guide to practice core Unity and C# game development fundamentals.
    </p><br>
     <a href="#about-the-project"><strong>Explore the docs »</strong></a>
